@@ -1,4 +1,4 @@
-# Data scraping Schools Data
+# Data Scraping Schools Data
 
 [CBSE](https://en.wikipedia.org/wiki/Central_Board_of_Secondary_Education) is one of the two national level boards of education in India (alongwith [CISCE](https://en.wikipedia.org/wiki/Central_Board_of_Secondary_Education)).
 While CISCE is a private board, CBSE is public, central government run board.

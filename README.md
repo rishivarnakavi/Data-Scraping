@@ -117,5 +117,3 @@ There are 144 total fields per school - the 25 basic ones above, and 119 more, f
    - `optional bool f_hostel` Hostel? (yes/no)
    - `optional bool f_health_checkup` Health checkup? (yes/no)
  
- # License 
- This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
